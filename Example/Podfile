@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NewModule_Example' do
+  pod 'NewModule', :path => '../'
+
+  target 'NewModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
