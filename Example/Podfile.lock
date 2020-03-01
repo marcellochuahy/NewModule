@@ -1,0 +1,16 @@
+PODS:
+  - NewModule (0.1.0)
+
+DEPENDENCIES:
+  - NewModule (from `../`)
+
+EXTERNAL SOURCES:
+  NewModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NewModule: 211175cd2d1fd3e9d391cafb772bb47604868cd4
+
+PODFILE CHECKSUM: 5b2e829b2e49066fc716d1cfa72b6354491583a7
+
+COCOAPODS: 1.8.3
